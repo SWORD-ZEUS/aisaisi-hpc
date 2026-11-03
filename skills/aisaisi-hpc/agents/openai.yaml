@@ -1,0 +1,6 @@
+interface:
+  display_name: "爱赛思高性能计算"
+  short_description: "操作爱赛思高性能计算作业、浏览器终端、文件和实例，按版本处理 LogicMD 模拟及续算。"
+  default_prompt: "使用 $aisaisi-hpc 查看爱赛思高性能计算作业的状态和日志，并按已有授权继续处理任务。"
+policy:
+  allow_implicit_invocation: true

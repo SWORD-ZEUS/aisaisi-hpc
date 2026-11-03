@@ -1,0 +1,41 @@
+# 本地会话、凭据与个人项目配置
+session.json
+session-*.json
+*.session.json
+*session*.json
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+.ssh/
+.local/
+.state/
+private/
+local/
+AISAISI.md
+
+# 运行输出与实验输入
+work/
+outputs/
+data/
+results/
+logs/
+*.log
+*.out
+*.err
+*.cpt
+*.trr
+*.xtc
+*.tpr
+
+# 第三方手册、缓存和系统文件
+references/live-platform.md
+**/live-platform.md
+*.pdf
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.DS_Store
+node_modules/
