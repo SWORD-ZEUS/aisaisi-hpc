@@ -1,6 +1,6 @@
 # aisaisi-hpc
 
-用于 Codex 等支持 `SKILL.md` 的智能体的爱赛思高性能计算技能。高性能计算（high-performance computing，HPC）指使用计算集群运行任务。本项目是非官方工具，面向[爱赛思科研工作台](https://ai4s.yicloud.com/workflow/task)，与 Inspire/启智平台分别使用。
+用于 Codex 等支持 `SKILL.md` 的智能体的爱赛思高性能计算技能。高性能计算（high-performance computing，HPC）指使用计算集群运行任务。本项目是非官方工具，仅适用于[爱赛思科研工作台](https://ai4s.yicloud.com/workflow/task)。
 
 提供正常登录、项目和作业查询、文件上传、远端命令执行、Slurm（集群作业调度系统）作业脚本生成与提交，以及 LogicMD 分子动力学（molecular dynamics，MD）的操作说明。
 
